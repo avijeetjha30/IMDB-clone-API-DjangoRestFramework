@@ -6,9 +6,9 @@
 
 <h3>Create model</h3>
 
-    <li>python3 manage.py makemigrations</li>
-    <li>python3 manage.py migrate</li>
-    <li>python3 manage.py createsuperuser</li>
+    python3 manage.py makemigrations
+    python3 manage.py migrate
+    python3 manage.py createsuperuser
 
 <h3>Run local server</h3>
     <li>python3 manage.py runserver 8080</li>
