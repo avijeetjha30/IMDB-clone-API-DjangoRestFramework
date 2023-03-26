@@ -21,6 +21,7 @@
     python3 manage.py createsuperuser
 
 <h3>Run local server</h3>
+
     python3 manage.py runserver 8080
 
 <h3>Admin login</h3>
