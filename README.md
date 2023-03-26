@@ -1,5 +1,15 @@
 <h2>IMDB API Clone With DRF</h2>
 
+<h3>Create and activate virtual Environment</h3>
+
+    For Ubuntu
+        python3 -m venv venv
+        source venv/bin/activate
+    For Windows
+        python -m venv venv
+        venv/Scripts/activate
+    
+
 <h3>Install all Packages</h3>
 
     pip3 install -r requirements.txt
