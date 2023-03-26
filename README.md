@@ -31,7 +31,7 @@
     <li>http://localhost:8080/watch/<(chack urls.py and add endpoint to get movie list, detail, create, update, delete)></li>
 
 
-<h3> Reference Reading Links (Arranged According To Lectures)</h3>
+<h3> Reference Reading Links</h3>
 <br>
 
 <b> Understanding REST API</b>
